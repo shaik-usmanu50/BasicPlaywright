@@ -1,0 +1,7 @@
+{
+    "UN" : "selenium",
+    "PWD" : "selenium",
+    "XUN" : "//input[@type = 'text']",
+    "XPWD" : "//input[@type = 'password']",
+    "XSUB" : "//input[@type = 'Submit']"
+}
